@@ -1,0 +1,14 @@
+Place the LOCKBITS files here. Text files with *.txt extension.
+
+File construction:
+01
+
+Where 01 is LOCKBYTE value in HEX
+
+See "example-lockbits.txt" for example.
+
+Unused bits are always 1, see datasheet.
+This is important to successfuly pass the veryfication.
+For example, lockbyte-file for Atmega88 will contain as follows:
+FC
+(BIN=11111100, this will enable LB1 and LB2)

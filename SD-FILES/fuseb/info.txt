@@ -1,0 +1,19 @@
+Place the FUSEBITS files here. Text files with *.txt extension.
+
+File construction:
+010203
+
+Where 01 is LOW fusebyte value in HEX
+Where 02 is HIGH fusebyte value in HEX
+Where 03 is EXTENDED fusebyte value in HEX
+
+See "example-fusebits.txt" for example.
+
+If chip uses only two fusebytes, only two will be read.
+If chip uses only one fusebyte, only one will be read.
+
+Unused bits are always 1, see datasheet.
+This is important to successfuly pass the veryfication.
+For example, fuse-file for Atmega88 will contain as follows:
+62FFFF
+

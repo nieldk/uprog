@@ -1,1 +1,42 @@
+License for using "µProg" software and "µProg" board project. Version 1.3.
 
+User can use this software and device in any manner as long at it is in line with local law and with this license.
+
+1. Software:
+This is freeware software for home use only, with copyright.
+
+a) You can't use this software for commercial purposes, including use it in the company.
+b) You can't charge a fee when you make programming service made using this software.
+c) You can't sell the software, you can't charge for its redistribution.
+d) You can't attach the software to other items / programs that are part of the sale.
+e) You can't make any changes to the software, you can't delete the info about the author and the home page.
+f) This software can be redistributed only in its original package files published by the author, together with all files
+   and this license file.
+g) You can not request ANY payment for this software, it is completely free.
+h) This software was created by using legitimate tools.
+i) You can't not modify, decompile, disassemble, or alter in any way the contents of HEX or BIN files.
+j) The author does not provide any warranty for the software, is not responsible for damages due to
+   software or documentation errors.
+
+
+2. Printed circuit board:
+Includes board and scheme.
+
+a) Design *.sch and *.brd files are created using the free version of EAGLE not allowing commercial use of created files.
+b) The project can be freely modified and published, DO NOT delete / modify "diy.elektroda.eu" word, "µProg" logo,
+   and a frame with information about the author and homepage.
+c) You can't reproduce and sell the PCBs for a profit.
+d) The sale of PCBs along with elements of the assembly is allowed after obtaining permission from the author
+   and the setting of prices, and under a condition that the seller does not reap financial benefits from the sale.
+e) PCB (original or modified) may be published only if you include this license file.
+f) The author does not provide any warranty for the correctness for pcb and schematic, and is not responsible for damages
+   due to the board project or documentation errors.
+
+This license in its unmodified form must be placed in the root directory on the memory card,
+this is a prerequisite for the software to work.
+
+Autor: Pawe³ Kisielewski "manekinen" - manekinen@gmail.com
+
+Please report any license violations to keep this software free.
+
+Project website: http://diy.elektroda.eu/uprog-maly-szybki-przenosny-programator-avr-z-sd/
