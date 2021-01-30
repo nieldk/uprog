@@ -1,0 +1,237 @@
+0,5kB chips:     20|       30|       40|       50|
+1E8F0AFF0000      -no isp-          Attiny4       
+1E8F09FF0000      -no isp-          Attiny5       
+1KB chips:       20|       30|       40|       50|
+1E9008FF0000      -no isp-          Attiny9       
+1E9003FF0000      -no isp-          Attiny10      
+1E9001DF0000661020000410000909091200AT90s1200     
+1E9004FC0000      -no isp-          Attiny11      
+1E9005520000661020000410000904070700Attiny12      
+1E90065C0000661020000410000905090900Attiny15      
+1E90076AFF00CC1020000410000505040400Attiny13-A    
+2KB chips:       20|       30|       40|       50|
+1E910FFF0000      -no isp-          Attiny20      
+1E9101DF0000              0504040500AT90s2313     
+1E9102DE0000              0909090900AT90s2323     
+1E9103DE0000              0909090900AT90s2343     
+1E9105DA0000              0909090900AT90s2333     
+1E9106DE0000              0909090900Attiny22      
+1E9107F20000              0909090900Attiny28      
+1E910862DFFFCC1040000420000505040400Attiny25      
+1E9109E1F700              0909090900Attiny26      
+1E910A64DFFFCC1040000420000505040400Attiny2313-A  
+1E910B62DFFFCC1040000420000505040400Attiny24-A    
+1E910C62DFFFCC1040000420000505040400Attiny261-A   
+4KB chips:       20|       30|       40|       50|
+1E920EFF0000      -no isp-          Attiny40      
+1E9201DF0000              0909090900AT90s4414     
+1E9202DF0000              0909090900AT90s4434     
+1E9203DA0000              0909090900AT90s4433     
+1E920562DFFFCC2040000440000005040900Atmega48-A    
+1E920662DFFFCC2040000440000505040400Attiny45      
+1E920762DFFFCC2040000440000505040400Attiny44-A    
+1E920862DFFFCC2040000440000505040400Attiny461-A   
+1E92096EDFFFCC2040000440000005040900Attiny48      
+1E920A62DFFFCC2040000440000005040900Atmega48P-PA  
+1E920C62DFFF              0909090900Attiny43U     
+1E920D64DFFF              0909090900Attiny4313    
+8KB chips:       20|       30|       40|       50|
+1E9301DF00006620800004800009090901200AT90s8515    
+1E9303DF00006620800004800009090901200AT90s8535    
+1E9306E1D900E62080000480000505090900Atmega8515    
+1E9307E1D900E62080000480000505090900Atmega8-A     
+1E9308E1D900E62080000480000505090900Atmega8535    
+1E930A62DFF9CC2080000480000005040900Atmega88-A    
+1E930B62DFFFCC2080000480000505040400Attiny85      
+1E930C62DFFFCC2080000480000505040400Attiny84      
+1E930D62DFFFCC2080000480000505040400Attiny861-A   
+1E930F62DFF9CC2080000480000005040900Atmega88P-PA  
+1E93116EDFFFCC2080000480000005040900Attiny88      
+1E938162DFF9E62080000480000005040900AT90pwm2-3    
+1E938362DFF9E62080000480000005040900AT90pwm1-2b-3b
+1E938762DFFFCC2080000480000505040500Attiny87      
+1E938862D9FDE62080000480000005040900AT90pwm81     
+1E93895ED9F4C62080000480000005090900Atmega8U2     
+1E9310DFFD00CC2080000480000505040400Atmega8HVA    
+1E93825ED9F4C62080000480000005090900AT90usb82     
+16KB chips:      20|       30|       40|       50|
+1E9401DA0000      -no isp-          Atmega161     
+1E9402D2FF00E64080000480000210042000Atmega163     
+1E9403E19900E64080000480000505090900Atmega16-A    
+1E94046299FFEE4080000480000505090900Atmega162     
+1E94056299FFCC4080000480000505090900Atmega169A-PA 
+1E940662DFF9CC4080000480000005040900Atmega168-A   
+1E94076299FFCC4080000480000005040900Atmega165A-PA 
+1E940F6299FFC64080000480000005090900Atmega164A    
+1E940A6299FFC64080000480000005090900Atmega164P-PA 
+1E940B62DFF9CC4080000480000005040900Atmega168P-PA 
+1E940DDEE900CC4080000480000505040400Atmega16HVB   
+1E94825ED9F4C64080000480000005090900AT90usb162    
+1E948362DFF9E64080000480000005040900AT90pwm216-316
+1E948462D9FFE64080000480000005040900Atmega16M1    
+1E948762DFFFCC408000048000000505040500Attiny167   
+1E94885E91F3C64080000480000005090900Atmega16U4    
+1E94895E91F3C64080000480000005090900Atmega16U2    
+1E940CDFFD00CC4080000480000505040400Atmega16HVA   
+32KB chips:      20|       30|       40|       50|
+1E9501F19900E64000010400010210042000Atmega323-A   
+1E9502E19900E64000010400010505090900Atmega32-A    
+1E95036299FFEC4000010400010505090900Atmega329     
+1E95046299FFEC4000010400010505090900Atmega3290    
+1E95056299FFCC4000010400010505090900Atmega325     
+1E95066299FFCC4000010400010505090900Atmega3250    
+1E9507DEE900        -no isp-        Atmega406     
+1E95086299FF              0909090900Atmega324P    
+1E9510DEE900CC4000010400010505040400Atmega32HVB   
+1E95116299FFC64000010400010005090900Atmega324PA   
+1E951462D9FFCC4000010400010005040900Atmega328     
+1E95156299FFC64000010400010005090900Atmega324A    
+1E950B6299FFEC4000010400010909090900Atmega329A-PA 
+1E950C6299FFEC4000010400010909090900Atmega3290A-PA
+1E950D6299FFEC4000010400010505090900Atmega325A-PA 
+1E950E6299FFEC4000010400010505090900Atmega3250A-PA
+1E950F62D9FFCC4000010400010005040900Atmega328P    
+1E958A5ED9F4C64000010400010005090900Atmega32U2    
+1E95816299FFE64000010400010505090900AT90can32     
+1E958462D9FFE64000010400010005040900Atmega32M1    
+1E958662D9FFE64000010400010005040900Atmega32C1    
+1E95875E91F3C64000010400010005090900Atmega32U4    
+1E95885E99F3C6400001040001000005090900Atmega32U6  
+64KB chips:      20|       30|       40|       50|
+1E9602E199FDE68000010800010505090900Atmega64-A    
+1E96036299FDEC8000010800010505090900Atmega649     
+1E96046299FFEC8000010800010505090900Atmega6490    
+1E96056299FFCC8000010800010505090900Atmega645     
+1E96066299FFCC8000010800010505090900Atmega6450    
+1E96086299FFC68000010800010005090900Atmega640     
+1E96096299FFC68000010800010005090900Atmega644-A   
+1E960A6299FFC68000010800010005090900Atmega644P-PA 
+1E960B6299FF              0909090900Atmega649A-P  
+1E960C6299FF              0909090900Atmega6490A-P 
+1E960D6299FF              0909090900Atmega645A-PA 
+1E960E6299FF              0909090900Atmega6450A-PA
+1E96816299FFE68000010800010505090900AT90can64     
+1E96825E9BF3C68000010800010405090900AT90usb646-647
+1E968462D9FFE68000010800010005040900Atmega64M1    
+1E968662D9FFE68000010800010005040900Atmega64C1    
+128KB chips:     20|       30|       40|       50|
+1E9701C1FFFF868000020800020938090900Atmega103     
+1E9702E199FDE680000208000205050A0A00Atmega128-A   
+1E97036299FFC68000020800020005090900Atmega1280    
+1E97046299FFC68000020800020005090900Atmega1281    
+1E97056299FFC68000020800020005090900Atmega1284P   
+1E97066299FFC68000020800020005090900Atmega1284    
+1E97816299FFE68000020800020505090900AT90can128    
+1E97825E99F3C68000020800020405090900AT90usb1286-87
+256KB chips:     20|       30|       40|       50|
+1E98016299FFD68000040800020005090900Atmega2560    
+1E98026299FFD68000040800020005090900Atmega2561    
+00000000000000000000000000000000000000000000000000
+|2*3 ||             30             ||     14     |
+|_____________________50_________________________|
+:xm:
+1E9441                              ATxmega16A4   
+1E9442                              ATxmega16D4   
+:
+1E9541                              ATxmega32A4   
+1E9542                              ATxmega32D4   
+:
+1E964E                              ATxmega64A1   
+1E9642                              ATxmega64A3   
+1E9646                              ATxmega64A4   
+1E964A                              ATxmega64D3   
+1E9647                              ATxmega64D4   
+:
+1E974C                              ATxmega128A1  
+1E9742                              ATxmega128A3  
+1E9746                              ATxmega128A4  
+1E9748                              ATxmega128D3  
+1E9747                              ATxmega128D4  
+:
+1E974E                              ATxmega192A1  
+1E9744                              ATxmega192A3  
+1E9749                              ATxmega192D3  
+:
+1E9846                              ATxmega256A1  
+1E9842                              ATxmega256A3  
+1E9843                              ATxmega256A3B 
+1E9844                              Atxmega256D3  
+00000000000000000000000000000000000000000000000000
+
+Chip DataBase file for uPROG, version 1.03
+Copyright Pawe³ Kisielewski (manekinen@gmail.com)
+Redistribution, using for other purposes not allowed without permission.
+___________________________________________________________________________
+___________________________________________________________________________
+
+When modyfiyng these data, remember to keep structure unchanged!
+Every each line must be 50 chars long, counting spaces in chip names.
+DO NOT put any comments or additional data before the "000000" mark.
+Every data is HEX, chip name is ASCII. Be very carefull when editing.
+Wrong values will mess up whole programming process.
+Wrong lenght of chars in row will result with "chip not supported".
+
+data row description:      1E910A64DFFF001040000420000504040500Attiny2313/A       
+                           | | | | | | | | | | | | | | | | | | +------------+
+first byte of signature----+ | | | | | | | | | | | | | | | | | |
+second byte of signature-----+ | | | | | | | | | | | | | | | | |
+third byte of signature--------+ | | | | | | | | | | | | | | | |
+default fusebyte low-------------+ | | | | | | | | | | | | | | |
+default fusebyte high--------------+ | | | | | | | | | | | | | |
+default fusebyte extended------------+ | | | | | | | | | | | | |
+programmig method *--------------------+ | | | | | | | | | | | |
+flash page size (words)------------------+ | | | | | | | | | | |
+number of flash pages (low byte of word)---+ | | | | | | | | | |
+number of flash pages (high byte of word)----+ | | | | | | | | |
+eeprom page size (bytes)-----------------------+ | | | | | | | |
+number of eeprom pages (low byte of word)--------+ | | | | | | |
+number of eeprom pages (high byte of word)---------+ | | | | | |
+fusebyte prog delay ms-------------------------------+ | | | | |
+flash prog delay ms------------------------------------+ | | | |
+eeprom prog delay ms-------------------------------------+ | | |
+chip erase delay ms **-------------------------------------+ | |
+reserved byte------------------------------------------------+ |
+chip name 14 bytes---------------------------------------------+
+
+** in some cases it's better to give 2 times more than datasheet says
+
+If you see a row with spaces like this:
+1E910C62DFFF              0909090900Attiny261/A
+This means that only fusebits, lockbits, and chip erase operations are available for this chip at the moment.
+Also, 09090909 means that 9ms for each operation is used, these are not the datasheet times.
+Database will be replenished over time, but you can fill up datas on your own if you want to.
+___________________________________________________________________________
+___________________________________________________________________________
+
+* These can be also edited, some chips have all:
+delay wait/rdy flag check/data polling
+flash memory can be only byte OR page programmed
+eeprom memory can be both byte AND page programmed
+By default page programming is selected if present.
+By default data polling or RDY flag check is selected if present.
+You can force byte programming and/or wait delay for any chip if you have some silly reason for that.
+Selecting wrong programming method (which current chip does not have) will cause programming process to freeze or fail.
+
+      programming method byte descr: .7.6.5.4.3.2.1.0
+flash:                                | | | | | | | |
+page(1)/byte(0) programming-----------+ | | | | | | |
+bsy check(1)/delay ms(0)----------------+ | | | | | |
+data polling(1)/rdy flag(0)---------------+ | | | | |
+extended memory(1)/normal(0)----------------+ | | | |
+eeprom:                                       | | | |
+page(1)/byte(0) programmig--------------------+ | | |
+bsy check(1)/delay ms(0)------------------------+ | |
+data polling(1)/rdy flag(0)-----------------------+ |
+reserved(0)-----------------------------------------+
+
+256kB chips are the extended memory chips, everything 128kB and below are normal chips - see datasheet.
+
+Examples:
+CC (11001100) - flash page, bsy check, rdy flag, normal, eeprom page, bsy check, rdy flag, 0
+E6 (11100110) - flash page, bsy check, data poll, normal, eeprom byte, bsy check, data poll, 0
+C6 (11000110) - flash page, bsy check, rdy flag, normal, eeprom byte, bsy check, data poll, 0
+EC (11101100) - flash page, bsy check, data poll, normal, eeprom page, bsy check, rdy flag,0
+66 (01100110) - flash byte, bsy check, data poll, normal, eeprom byte, bsy check, data poll, 0
+EE (11101110) - flash page, bsy check, data poll, normal, eeprom page, bsy check, data poll, 0
+86 (10000110) - flash page, delay ms, 0, normal, eeprom byte, bsy check, data poll, 0
+____________________________________________________________________________
