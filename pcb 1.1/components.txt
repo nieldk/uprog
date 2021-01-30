@@ -1,0 +1,8 @@
+IC1 - Atmega328P-AU
+R1 -330
+R2 - 1K
+R3,R4 - 330
+C1,C4 - 100nF
+C2,C3,C5 - see description
+D1 - 3V3 zener diode
+S1,S2,S3,S4 - SMD tact switch

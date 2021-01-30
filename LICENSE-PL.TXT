@@ -1,0 +1,43 @@
+Licencja na u¿ytkowanie programu "µProg" oraz projektu p³ytki "µProg".
+
+U¿ytkownik mo¿e korzystaæ z programu i urz¹dzenia w dowolny sposób o ile bêdzie to zgodne z lokalnym prawem i z niniejsz¹ licencj¹.
+
+1. Program:
+Jest to program typu freeware do u¿ytku domowego, z zastrze¿eniem praw autorskich.
+
+a) Nie wolno u¿ywaæ programu w celach komercyjnych, m.in. u¿ywaæ go w firmie.
+b) Nie wolno pobieraæ op³at za us³ugi programowania wykonane przy u¿yciu tego programu.
+c) Nie wolno sprzedawaæ programu, nie wolno pobieraæ op³at za jego redystrybucjê.
+d) Nie wolno do³¹czaæ programu do innych przedmiotów/programów które s¹ elementami sprzeda¿y.
+e) Nie wolno dokonywaæ ¿adnych zmian w programie, nie wolno usuwaæ danych o autorze i stronie domowej.
+f) Program mo¿na redystrybuowaæ tylko w oryginalnej paczce plików opublikowanej przez autora, wraz ze wszystkimi plikami
+   oraz niniejsz¹ licencj¹.
+g) Za program nie mo¿na ¿¹daæ jakiejkowliek zap³aty, jest on programem ca³kowicie darmowym.
+h) Program zosta³ stworzony przy u¿yciu legalnych narzêdzi.
+i) Nie wolno modyfikowaæ, dekompilowaæ, deasemblowaæ, czy zmieniaæ w jakikolwiek sposób zawartoœci plików wsadowych.
+j) Autor nie udziela jakiejkolwiek gwarancji na dzia³anie programu, nie odpowiada za szkody powsta³e w skutek b³edów
+   programu czy b³êdów dokumentacji.
+
+2. Projekt p³ytki:
+Obejmuje p³ytkê drukowan¹ oraz schemat.
+
+a) Projekt *.sch oraz *.brd stworzony przy u¿yciu darmowej wersji programu EAGLE nie pozwalaj¹cej na komercyjne
+   wykorzystywanie stowrzonych plików.
+b) Projekt mo¿na dowolnie modyfikowaæ i publikowaæ, NIE WOLNO usuwaæ / modyfikowaæ napisu "diy.elektroda.eu", logo "µProg",
+   oraz ramki z informacj¹ o autorze i stron¹ domow¹.
+c) Nie wolno powielaæ i sprzedawaæ p³ytki w celach zarobkowych.
+d) Dopuszczalna jest sprzeda¿ p³ytki wraz z elementami do monta¿u po uwczeœniejszym uzyskaniu zgody od autora i ustaleniu cen,
+   oraz pod warunkiem ¿e sprzedaj¹cy nie czerpie korzyœci finansowych ze sprzeda¿y, 
+e) Projekt p³ytki (oryginalny lub zmodyfikowany) mo¿e byæ publikowany pod warunkiem za³¹czenia niniejszej licencji.
+f) Autor nie udziela jakiejkolwiek gwarancji poprawnoœci schematu czy p³ytki, i nie odpowiada za szkody powsta³e w
+   skutek b³êdów projektu p³ytki czy dokumentacji.
+
+
+Licencja w wersji anglojêzycznej "LICENSE.TXT" w niezmodyfikowanej formie musi znajdowaæ siê w katalogu "system"
+na karcie pamiêci, jest to warunek do dzia³ania programu.
+Jeœli osoba potrafi zbudowaæ, uruchomiæ, i u¿ywaæ urz¹dzenia posiadaj¹cego jedynie jêzyk angielski,
+potrafi równie¿ przeczytaæ ze zrozumieniem licencjê w jêzyku angielskim.
+
+Autor: Pawe³ Kisielewski "manekinen" - manekinen@gmail.com
+
+Proszê zg³aszaæ jakiekolwiek fakty ³amania licencji aby projekt móg³ pozostaæ darmowy.

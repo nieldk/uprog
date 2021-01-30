@@ -1,0 +1,7 @@
+Ext:07, high:D0, low:A2
+
+If you get errors when writing extended fuse, try to write FF instead of 07.
+Unused bits should be "1", but my chip gives there "0" when reading - don't know why.
+
+Jeœli programator zwróci³ b³¹d po zapisie fuska extended, spróbuj zapisaæ wartoœæ FF zamiast 07.
+Nieu¿ywane bity powinny wynosiæ "1", ale mój uk³ad (lub programator) odczytuje je jako "0" - nie wiem czemu.
